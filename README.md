@@ -698,6 +698,7 @@
 
 ### Open Source
 
+- [NocoDB](https://github.com/nocodb/nocodb) - Free & Open Source Airtable alternative - turns any SQL database into smart spreadsheet.
 - [PageKit](https://github.com/pagekit/pagekit) - Modular and lightweight CMS built with Symfony components and Vue.js.
 - [npmcharts.com](https://github.com/cheapsteak/npmcharts.com) - Compare npm packages and spot download trends.
 - [Koel](https://github.com/phanan/koel) - A personal music streaming server that works.
